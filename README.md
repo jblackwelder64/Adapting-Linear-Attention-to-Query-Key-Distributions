@@ -13,7 +13,7 @@ results.
 
 ## Empirical Results
 
-Below is a boxplot demonstrating the effectiveness of my heuristic for choosing HCEXP estimator parameters (right column of graph):
+Below is a boxplot demonstrating the effectiveness of my heuristic for choosing HCEXP estimator parameters (right column of graph) across 20 randomly selected datasets:
 
 <img src="https://github.com/jblackwelder64/Adapting-Linear-Attention-to-Query-Key-Distributions/blob/main/download%20(10).png">
 
