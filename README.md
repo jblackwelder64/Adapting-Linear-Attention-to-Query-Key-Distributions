@@ -17,10 +17,10 @@ Below is a boxplot demonstrating the effectiveness of my heuristic for choosing 
 
 <img src="https://github.com/jblackwelder64/Adapting-Linear-Attention-to-Query-Key-Distributions/blob/main/download%20(10).png">
 
-Scatter plot comparing HCEXP estimator predictions (using my heuristic) with true softmax kernel values:
+Scatter plot comparing HCEXP estimator predictions (using my heuristic) with true softmax kernel values over a randomly generated dataset:
 
 <img src="https://github.com/jblackwelder64/Adapting-Linear-Attention-to-Query-Key-Distributions/blob/main/download%20(2).png">
 
-Scatter plot comparing HCEXP estimator predictions (not using my heuristic) with true softmax kernel values:
+Scatter plot comparing HCEXP estimator predictions (not using my heuristic) with true softmax kernel values over a randomly generated dataset:
 
 <img src="https://github.com/jblackwelder64/Adapting-Linear-Attention-to-Query-Key-Distributions/blob/main/download%20(1).png">
