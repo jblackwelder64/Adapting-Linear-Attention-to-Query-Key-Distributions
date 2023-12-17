@@ -1,5 +1,7 @@
 # Adapting-Linear-Attention-to-Query-Key-Distributions
 
+Read the full manuscript [here](https://github.com/jblackwelder64/Adapting-Linear-Attention-to-Query-Key-Distributions/blob/main/Project%20Writeup.pdf).
+
 I adapt the complex exponential estimator (CEXP), first introduced in [Choroman-
 ski et al. (2022)](https://arxiv.org/abs/2110.04367), to the setting where query and key vectors are assumed to be
 sampled from two different multivariate normal distributions. I find that many of
