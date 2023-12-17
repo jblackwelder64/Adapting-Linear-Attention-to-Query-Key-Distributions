@@ -15,11 +15,11 @@ results.
 
 Below is a boxplot demonstrating the effectiveness of my heuristic for choosing HCEXP estimator parameters (right column of graph):
 
-<img src="https://github.com/jblackwelder64/Adapting-Linear-Attention-to-Query-Key-Distributions/blob/main/download%20(2).png">
+<img src="https://github.com/jblackwelder64/Adapting-Linear-Attention-to-Query-Key-Distributions/blob/main/download%20(10).png">
 
 Scatter plot comparing HCEXP estimator predictions (using my heuristic) with true softmax kernel values:
 
-<img src="Sample Predictions/Plate_ePB_v1_bulk_20220704_WellB4_ChannelDAPI,DsRed,Cy5_Seq0007 - Denoised.nd2fov_1.tif_PRED_INSTANCE_MASK.png">
+<img src="https://github.com/jblackwelder64/Adapting-Linear-Attention-to-Query-Key-Distributions/blob/main/download%20(2).png">
 
 Scatter plot comparing HCEXP estimator predictions (not using my heuristic) with true softmax kernel values:
 
